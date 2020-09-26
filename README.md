@@ -1,1 +1,1 @@
-# jamgular
+# jamgular init
